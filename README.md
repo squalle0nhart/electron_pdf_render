@@ -1,8 +1,8 @@
 **How to run demo:**
- $ git clone https://github.com/squalle0nhart/electron_pdf_render.git
- $ cd electron_pdf_rendering
- $ npm i 
- $ npm start
+ * $ git clone https://github.com/squalle0nhart/electron_pdf_render.git
+ * $ cd electron_pdf_rendering
+ * $ npm i 
+ * $ npm start
 Note: Password for PDF file test is: **123456** . You change link of pdf to whatever you want, not just local pdf.
 
 **Description:**
