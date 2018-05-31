@@ -3,7 +3,7 @@
  * $ cd electron_pdf_rendering
  * $ npm i 
  * $ npm start
-Note: Password for PDF file test is: **123456** . You change link of pdf to whatever you want, not just local pdf.
+ * Note: Password for PDF file test is: **123456** . You change link of pdf to whatever you want, not just local pdf.
 
 **Description:**
 * From **ElectronJS 1.6.4** they have added the native pdf rendering (https://github.com/electron/electron/pull/8435) base on origin extension from chromium. 
