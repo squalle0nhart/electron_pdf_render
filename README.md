@@ -12,5 +12,5 @@ Note: Password for PDF file test is: **123456** . You change link of pdf to what
 
 P/s: I have found that in Electron 1.7.1 we dont need enable plugins setting to use native pdf rendering (but they have fixed it in later version)
 
- 
- 
+**Something more**
+* I have found that **Electron 1.6.11** have some security vulnerabilities (Electron give details in this link: https://electronjs.org/blog/protocol-handler-fix and https://nvd.nist.gov/vuln/detail/CVE-2018-1000118) . Electron urge all developers to update their apps to the latest stable version immediately.
